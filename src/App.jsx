@@ -13,7 +13,7 @@ const posts = [
   {
     id: 1,
     author: {
-      avaraUrl: 'https://github.com/ndrfelipe.png',
+      avatarUrl: 'https://github.com/ndrfelipe.png',
       name: 'André Felipe',
       role: 'Software Engineer'
     },
@@ -27,7 +27,7 @@ const posts = [
   {
     id: 2,
     author: {
-      avaraUrl: 'https://github.com/aanaclv.png',
+      avatarUrl: 'https://github.com/aanaclv.png',
       name: 'Ana Clara',
       role: 'FullStack Developer'
     },
@@ -38,8 +38,6 @@ const posts = [
     ],
     publishedAt: new Date('2025-02-25 15:31:00'),
   },
-
-
 ];
 
 
