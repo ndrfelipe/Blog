@@ -6,6 +6,5 @@ createRoot(document.getElementById('root')).render(
   // componentes do react.
   <StrictMode>
     <App />
-  
   </StrictMode>
 )
